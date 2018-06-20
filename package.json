@@ -1,7 +1,8 @@
 {
   "name": "ethereum-deposit-checker",
   "version": "1.0.0",
-  "description": "",
+  "description": "ETH deposit checker",
+  "repository": "https://github.com/longmaba/ethereum-deposit-checker.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
